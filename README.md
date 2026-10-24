@@ -11,3 +11,10 @@ Matheus Lara Campos, RA 126608
 [Diagramas](Atividade%204/Diagramas%20Sequencias)
 
 [Enunciado da atividade](https://github.com/JoaoChoma/analise_projeto_esoft_2026/blob/main/atividades/1_bim/ATIVIDADE04_DIAGRAMA_SEQUENCIA.MD)
+
+## Atividade 5
+
+[Resolução e diagramas](Atividade%205/ATIVIDADE05_RESPOSTAS.md)
+
+[Lista de exercícios](https://github.com/JoaoChoma/analise_projeto_esoft_2026/blob/main/atividades/1_bim/atividade05_revisao_master_class.md)
+
